@@ -3,10 +3,10 @@ import socket
 import struct
 import re
 
-APP_NAME = 'py_WOL'
+APP_NAME = 'py-WOL'
 APP_VER = '0.1 BETA'
 APP_AUTHOR = 'kimiroo'
-APP_URL = 'https://github.com/kimiroo/py_wol'
+APP_URL = 'https://github.com/kimiroo/py-wol'
 APP_DESC = 'Broadcasts WOL magic packets to target client within python script or by standalone.'
 APP_LICENSE_TYPE = 'MIT'
 APP_LICENSE = '''Copyright 2024 kimiroo
