@@ -139,5 +139,3 @@ if (__name__ == '__main__'):
     print('Launched in standalone mode\n')
     wol(mac_addr=mac, ip_addr=ip)
     exit()
-else:
-    wol('00-11-22-33-44-55')
